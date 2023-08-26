@@ -7,7 +7,7 @@ I am passionate about the world of technology, particularly in the realms of Pyt
 - 🌱 I'm currently learning more about Machine Learning to deepen my AI skills.
 - 👀 I'm interested in exploring innovative solutions that have a positive impact on the world.
 - 💞️ I'm open to collaborating on projects that align with my interests and skills.
-- 📫 You can reach me at [vadithyaanjali1@gmail.com]
+- 📫 You can reach me at vadithyaanjali1@gmail.com
 
 ## Skills
 
