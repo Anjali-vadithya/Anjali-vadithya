@@ -13,7 +13,7 @@ I am passionate about the world of technology, particularly in the realms of Pyt
 
 Here are some of the skills I've developed along my journey:
 
-- Programming: Python, C
+- Programming: Python, C, java.
 - Artificial Intelligence: Exploring the world of AI and Machine Learning
 
 ## Projects
