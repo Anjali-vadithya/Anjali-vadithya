@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am passionate about the world of technology, particularly in the realms of Python programming and Artificial Intelligence. I find the intersection of code and creativity truly fascinating.
+I am passionate about the world of technology, particularly in the realms of JAVA programming and Artificial Intelligence. I find the intersection of code and creativity truly fascinating.
 
 - 🌱 I'm currently learning more about Machine Learning to deepen my AI skills.
 - 👀 I'm interested in exploring innovative solutions that have a positive impact on the world.
@@ -13,7 +13,7 @@ I am passionate about the world of technology, particularly in the realms of Pyt
 
 Here are some of the skills I've developed along my journey:
 
-- Programming: Python, C, java.
+- Programming:  java, Python, C,
 - Artificial Intelligence: Exploring the world of AI and Machine Learning
 
 ## Projects
